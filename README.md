@@ -2,7 +2,7 @@
 
 To the moon! With this wonderful Mint-Labs Rocket and its rainbow-impulsion!
 
-<img src="images/rocket_front.png" width=300px alt="Rainbow Rocket"> <img src="images/rocket_back.jpg" width=300px alt="Rainbow Rocket">
+<img src="images/rocket_front.png" width=300px alt="Rainbow Rocket"> <img src="images/rocket_back.png" width=300px alt="Rainbow Rocket">
 
 - Status: **Complete**
 - Difficulty: **2/5**
