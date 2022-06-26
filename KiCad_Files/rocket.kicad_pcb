@@ -3975,10 +3975,10 @@
   (gr_text "RocketBadge\n" (at 135.4 88.6 -90) (layer "B.SilkS") (tstamp 66116376-6967-4178-9f23-a26cdeafc400)
     (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "MINT-Labs Regensburg e.V." (at 112.9 74.6) (layer "B.SilkS") (tstamp 749dfe75-c0d6-4872-9330-29c5bbcb8ff8)
-    (effects (font (size 1 1) (thickness 0.15)) (justify mirror))
+  (gr_text "MINT-Labs Regensburg e.V." (at 112.9 74.8) (layer "B.SilkS") (tstamp 749dfe75-c0d6-4872-9330-29c5bbcb8ff8)
+    (effects (font (size 0.8 0.8) (thickness 0.15)) (justify mirror))
   )
-  (gr_text "v2.0" (at 133.7 83.1 -90) (layer "B.SilkS") (tstamp eb667eea-300e-4ca7-8a6f-4b00de80cd45)
+  (gr_text "v2.1" (at 133.7 83.1 -90) (layer "B.SilkS") (tstamp eb667eea-300e-4ca7-8a6f-4b00de80cd45)
     (effects (font (size 0.75 0.75) (thickness 0.125)) (justify mirror))
   )
 
