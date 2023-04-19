@@ -26,4 +26,4 @@ You can find the manual and pictures of every step here: https://github.com/Bina
 - Unicorn SVG [CC-BY-SA](https://creativecommons.org/licenses/by-sa/4.0/) - [Rocket by Jean-Philippe Cabaroc](https://thenounproject.com/icon/rocket-7427/) (We've bought a licence, you should honor the artist work too!)
 
 ### Buy Soldering Kits
-If you want to buy the parts and PCB for a soldering kit you can find everything here: [shop.blinkyparts.com](https://shop.blinkyparts.com/de/Regenbogen-Rakete-Ein-Loetbausatz-nicht-von-dieser-Welt/blink234942)
+If you want to buy the parts and PCB for a soldering kit you can find everything here: [Rocket @ shop.blinkyparts.com](https://shop.blinkyparts.com/de/Regenbogen-Rakete-Ein-Loetbausatz-nicht-von-dieser-Welt/blink234942)
